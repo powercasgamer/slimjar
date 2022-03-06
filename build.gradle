@@ -4,7 +4,7 @@ plugins {
 }
 
 allprojects {
-    group 'io.github.slimjar'
+    group 'net.deltapvp.slimjar'
 
     apply plugin: 'com.github.hierynomus.license-base'
 

@@ -28,7 +28,7 @@ publishing {
     publications {
         mavenPublish(MavenPublication) {
             from components.java
-            groupId 'io.github.slimjar'
+            groupId 'net.deltapvp.slimjar'
             artifactId 'slimjar'
             version project.version
             pom {
